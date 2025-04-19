@@ -47,4 +47,5 @@ public class RemoveUnbalancedParanthesis{
         System.out.println(isBalanced(s));
         sc.close();
     }
-}
+}//(a*b))
+//(a*b)
